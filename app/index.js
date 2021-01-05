@@ -29,7 +29,6 @@ module.exports = class extends (
           );
       }
       this.npmInstall()
-        .then()
     });
   }
 };

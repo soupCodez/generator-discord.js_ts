@@ -1,8 +1,12 @@
 {
   "name": "generator-discord.js_ts",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A Yeoman generator that generates a discord.js/ts project!",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soupCodez/generator-discord.js_ts.git"
+  },
   "keywords": [
     "yeoman-generator",
     "discord.js",
@@ -12,9 +16,7 @@
     "scaffold",
     "generator"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "author": "soupCodez",
   "license": "MIT",
   "dependencies": {
