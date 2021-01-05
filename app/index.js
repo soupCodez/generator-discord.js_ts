@@ -28,8 +28,8 @@ module.exports = class extends (
             this.destinationPath(process.cwd().toString())
           );
       }
-      this.npmInstall({ "save": true });
-      this.log("Finished installing dependencies");
+      this.npmInstall()
+        .then()
     });
   }
 };
