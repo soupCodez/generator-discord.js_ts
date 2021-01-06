@@ -29,7 +29,7 @@ module.exports = class extends (
             this.destinationPath(process.cwd().toString())
           );
       }
-      this.npmInstall()
+      this.yarnInstall()
     });
   }
 };
