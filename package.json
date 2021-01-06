@@ -1,6 +1,6 @@
 {
   "name": "generator-discord.js_ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Yeoman generator that generates a discord.js/ts project!",
   "main": "index.js",
   "repository": {
