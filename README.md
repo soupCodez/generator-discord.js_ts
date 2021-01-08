@@ -7,6 +7,9 @@
 > A Yeoman generator that generates a discord.js/ts project!
 
 ## Install
+```sh
+npm install -g yo
+```
 
 ```sh
 npm install generator-discord.js_ts
