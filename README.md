@@ -28,18 +28,18 @@ $ yo discord.js_ts
 * Website: https://github.com/soupCodez
 * Github: [@soupCodez](https://github.com/soupCodez)
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
 Feel free to check [issues page](https://github.com/soupCodez/generator-discord.js_ts/issues).
 
-## Show your support
+### Show your support
 
 Give a ⭐️ if this project helped you!
 
 
-## 📝 License
+### 📝 License
 
 This project is [MIT](https://github.com/soupCodez/generator-discord.js_ts/blob/master/LICENSE) licensed.
 
