@@ -16,7 +16,10 @@
     "scaffold",
     "generator"
   ],
-  "scripts": {},
+  "scripts": {
+    "build": "cd app && npx tsc",
+    "publish": "npm publish"
+  },
   "author": "soupCodez",
   "license": "MIT",
   "dependencies": {

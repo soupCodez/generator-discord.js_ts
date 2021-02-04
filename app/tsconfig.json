@@ -1,0 +1,7 @@
+{
+    "files": ["index.ts"],
+    "compilerOptions": {
+        "lib": ["ES2020"],
+        "module": "ES2015",
+    }
+}
