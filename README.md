@@ -1,8 +1,13 @@
-# Welcome to generator-discord.js_ts 👋
-[![Version](https://img.shields.io/npm/v/generator-discord.js_ts.svg)](https://www.npmjs.com/package/generator-discord.js_ts)
+<p style="text-align: center;"><h1>Welcome to generator-discord.js_ts 👋</h1></p>
+
+[![npm version](https://badge.fury.io/js/generator-discord.js_ts.svg)](https://badge.fury.io/js/generator-discord.js_ts)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/soupCodez/generator-discord.js_ts#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/soupCodez/generator-discord.js_ts/graphs/commit-activity)
 [![License: MIT](https://img.shields.io/github/license/soupCodez/generator-discord.js_ts)](https://github.com/soupCodez/generator-discord.js_ts/blob/master/LICENSE)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+[![NPM](https://nodei.co/npm/generator-discord.js_ts.png?compact=true)](https://nodei.co/npm/generator-discord.js_ts/)
 
 > A Yeoman generator that generates a discord.js/ts project!
 
